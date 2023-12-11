@@ -1,0 +1,9 @@
+wordcloud #Python below 3.11
+pandas
+numpy
+notebook
+seaborn
+matplotlib
+scikit-learn
+plotly
+statsmodels #statsmodels supports Python 3.8, 3.9, and 3.10.
